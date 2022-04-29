@@ -18,11 +18,12 @@ html {
     body {
         color: ${({ theme }) => theme.secondary};
         font-family: "Poppins", sans-serif;
+        background-color: ${({ theme }) => theme.bg};
     }
 
     p {
         font-weight: 400;
-        font-size: 1.7rem;
+        font-size: 1.8rem;
         font-family: 'Open Sans', sans-serif;
     }
 `;

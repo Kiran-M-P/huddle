@@ -10,6 +10,15 @@ const Button = styled.button`
   border-radius: 4rem;
   padding: 2rem 8rem;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+  &:hover {
+    opacity: 0.7;
+  }
+
+  @media screen and (max-width: 768px) {
+    font-size: 1.4rem;
+    padding: 1.5rem 6rem;
+  }
 `;
 
 export default Button;

@@ -4,7 +4,6 @@ export const Nav = styled.nav`
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 5rem;
 
   button {
     font-family: "Poppins", sans-serif;
@@ -18,4 +17,8 @@ export const Nav = styled.nav`
 
 export const Logo = styled.img`
   width: 18rem;
+
+  @media screen and (max-width: 768px) {
+    width: 12rem;
+  }
 `;
