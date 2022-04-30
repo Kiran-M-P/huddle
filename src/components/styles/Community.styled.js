@@ -14,6 +14,7 @@ export const CommmunityMetric = styled.div`
     flex-direction: column;
     align-items: center;
     gap: 10vh;
+    padding: 30% 0 10%;
   }
 `;
 
