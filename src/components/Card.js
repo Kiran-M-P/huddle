@@ -1,16 +1,14 @@
 import React from "react";
 import StyledCard from "./styles/Card.styled";
 
-const Card = ({ item: { id, title, body, image } }) => {
+const Card = (props) => {
   return (
-    <StyledCard>
+    <StyledCard flex={props.flex} bg={props.bg}>
       <div>
-        <h3>{title}</h3>
-        <p>{body}</p>
+        <h3>{props.title}</h3>
+        <p>{props.body}</p>
       </div>
-      <div>
-        <img src={`./images/${image}`} alt="" />
-      </div>
+      <img loading="lazy" src={`./images/${props.image}`} alt="" />
     </StyledCard>
   );
 };

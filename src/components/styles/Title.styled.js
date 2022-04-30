@@ -4,7 +4,7 @@ const Title = styled.h1`
   font-weight: 700;
   font-size: 5rem;
   align-self: center;
-  padding-top: 15%;
+  padding-top: 25vh;
 
   @media screen and (max-width: 768px) {
     font-size: 2.5rem;

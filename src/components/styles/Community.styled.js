@@ -8,7 +8,7 @@ const CommunitySection = styled.div`
 export const CommmunityMetric = styled.div`
   display: flex;
   justify-content: space-evenly;
-  padding: 8rem 0;
+  padding: 11% 0;
 
   @media screen and (max-width: 768px) {
     flex-direction: column;

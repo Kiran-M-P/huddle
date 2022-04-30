@@ -3,7 +3,7 @@ import styled from "styled-components";
 const HomeSection = styled.div`
   display: flex;
   flex-direction: column;
-  padding: 5rem 10rem 10rem;
+  padding: 8rem 10rem 14rem;
   min-height: 70vh;
   text-align: center;
 
@@ -12,9 +12,8 @@ const HomeSection = styled.div`
   }
 
   p {
-    max-width: 55rem;
-
-    padding: 3rem 0;
+    max-width: 60rem;
+    padding: 3rem 0 4rem;
     align-self: center;
   }
 

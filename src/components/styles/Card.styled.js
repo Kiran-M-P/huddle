@@ -2,19 +2,25 @@ import styled from "styled-components";
 
 const StyledCard = styled.div`
   display: flex;
-  justify-items: space-between;
+  flex-direction: ${(props) => props.flex};
+  background-color: ${(props) => props.bg};
+  justify-content: space-evenly;
   align-items: center;
-  min-height: 100vh;
+  min-height: 60vh;
+  margin: 0;
+  padding: 0;
 
   img {
-    width: 80%;
+    width: 35%;
   }
 
   h3 {
-    font-size: 3rem;
+    font-size: 3.8rem;
+    padding-bottom: 2rem;
   }
   p {
-    max-width: 65rem;
+    font-size: 1.8rem;
+    max-width: 58rem;
   }
 `;
 
