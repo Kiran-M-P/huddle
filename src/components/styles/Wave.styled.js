@@ -4,7 +4,7 @@ const WaveStyled = styled.img`
   width: 100%;
   display: block;
   ${(props) =>
-    props.position === "top" ? "margin-top: -3px;" : "margin-bottom: -3px;"}
+    props.position === "top" ? "margin-bottom: -2px;" : "margin-top: -2px;"}
 `;
 
 export default WaveStyled;

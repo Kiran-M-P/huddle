@@ -12,7 +12,7 @@ const Button = styled.button`
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 
   &:hover {
-    opacity: 0.7;
+    background-color: ${({ theme }) => theme.button};
   }
 
   @media screen and (max-width: 768px) {

@@ -14,6 +14,9 @@ export const Nav = styled.nav`
     border: 0.2rem solid ${({ theme }) => theme.button};
     color: ${({ theme }) => theme.button};
   }
+  button:hover {
+    opacity: 0.7;
+  }
 
   @media screen and (max-width: 768px) {
     button {
