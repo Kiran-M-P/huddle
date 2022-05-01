@@ -4,7 +4,7 @@ import Commmunity from "./components/Commmunity";
 import Home from "./components/Home";
 import GlobalStyles from "./components/styles/GlobalStyles";
 import WaveStyled from "./components/styles/Wave.styled";
-import WindowWidth from "./WindowWidth";
+import WindowWidth from "./components/WindowWidth";
 import { Helmet } from "react-helmet";
 import Title from "./components/styles/Title.styled";
 import Button from "./components/styles/Button.styled";
@@ -18,7 +18,6 @@ function App() {
     secondary: "hsl(192, 100%, 9%)",
     bg: "#fff",
     button: "hsl(321, 100%, 78%)",
-    warning: "hsl(0, 100%, 63%)",
   };
 
   return (
@@ -27,7 +26,7 @@ function App() {
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
         <link
-          href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&family=Poppins:wght@400;500;600;700&display=swap"
+          href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&family=Poppins:wght@600;700&display=swap"
           rel="stylesheet"
         />
       </Helmet>

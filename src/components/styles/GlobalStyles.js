@@ -16,8 +16,7 @@ html {
     body {
         color: ${({ theme }) => theme.secondary};
         font-family: "Poppins", sans-serif;
-        background-color: ${({ theme }) => theme.bg};
-        
+        background-color: ${({ theme }) => theme.bg};        
     }
 
     p {

@@ -1,5 +1,5 @@
 import React from "react";
-import WindowWidth from "../WindowWidth";
+import WindowWidth from "./WindowWidth";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faFacebookSquare,
