@@ -8,7 +8,7 @@ const Card = (props) => {
         <h3>{props.title}</h3>
         <p>{props.body}</p>
       </div>
-      <img loading="lazy" src={`./images/${props.image}`} alt="" />
+      <img src={`./images/${props.image}`} alt="" />
     </StyledCard>
   );
 };
