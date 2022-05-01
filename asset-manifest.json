@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/huddle/static/js/main.ee478461.js",
+    "main.js": "/huddle/static/js/main.ac432cc2.js",
     "index.html": "/huddle/index.html",
-    "main.ee478461.js.map": "/huddle/static/js/main.ee478461.js.map"
+    "main.ac432cc2.js.map": "/huddle/static/js/main.ac432cc2.js.map"
   },
   "entrypoints": [
-    "static/js/main.ee478461.js"
+    "static/js/main.ac432cc2.js"
   ]
 }
