@@ -49,6 +49,8 @@ Users should be able to:
 - Dynamically rendering device specific components using windows.innerwidth.
 - CSS lazy loading
 
+
+
 ### Continued development
 
 - Need to focus more on clean code and folder structure
