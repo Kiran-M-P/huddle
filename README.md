@@ -16,8 +16,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [frontendmentor.io/solutions/...](https://www.frontendmentor.io/solutions/landing-page-with-curved-sections-using-react-and-styled-components-BkF-pmnS5)
+- Live Site URL: [kiran-m-p.github.io/huddle/](https://kiran-m-p.github.io/huddle/)
 
 ## My process
 
