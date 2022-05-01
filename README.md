@@ -34,6 +34,11 @@ Users should be able to:
 
 - learnt and got proficient in styled components
 - globalStyles, ThemeProvider
+- Got better in working with react(props, state, useEffects)
+- Working with fontawesome in react
+- Passing meta tags with react-helmet
+- Dynamically rendering device specific components using windows.innerwidth.
+- CSS lazy loading
 - Creating custom utility styled components
 
 ```js
@@ -43,14 +48,6 @@ Users should be able to:
   position="top"
 />
 ```
-
-- Got better in working with react(props, state, useEffects)
-- Working with fontawesome in react
-- Passing meta tags with react-helmet
-- Dynamically rendering device specific components using windows.innerwidth.
-- CSS lazy loading
-
-
 
 ### Continued development
 
