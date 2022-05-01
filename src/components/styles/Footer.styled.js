@@ -108,6 +108,7 @@ export const Subscribe = styled.form`
     flex-direction: column;
     input {
       align-self: flex-end;
+      min-width: 100%;
     }
     button {
       align-self: flex-end;
