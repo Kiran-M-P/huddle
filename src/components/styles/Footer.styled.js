@@ -106,6 +106,9 @@ export const Subscribe = styled.form`
 
   @media screen and (max-width: 768px) {
     flex-direction: column;
+    input {
+      align-self: flex-end;
+    }
     button {
       align-self: flex-end;
     }
