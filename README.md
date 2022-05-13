@@ -10,9 +10,8 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 
 ### Screenshot
-
-![](./screenshot1.jpg)
-![](./screenshot2.jpg)
+<img src="./screenshot1.jpg" alt="screenshot"  height="400" />
+<img src="./screenshot2.jpg" alt="screenshot"  height="400" />
 
 ### Links
 
